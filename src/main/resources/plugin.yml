@@ -1,0 +1,4 @@
+name: ParticleMaster
+version: '${project.version}'
+main: org.aren.particlemaster.ParticleMaster
+api-version: '1.20'

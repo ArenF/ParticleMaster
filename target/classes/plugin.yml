@@ -1,0 +1,4 @@
+name: ParticleMaster
+version: '1.0-SNAPSHOT'
+main: org.aren.particlemaster.ParticleMaster
+api-version: '1.20'
